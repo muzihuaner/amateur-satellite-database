@@ -11485,8 +11485,8 @@
     "name":"IDEASSat",
     "names":"",
     "image":"satellites\/IDEAS_Sat.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-09T00:00:00Z",
     "launched":"2021-01-24T15:00:00Z",
     "deployed":"2021-01-24T15:00:00Z",
     "website":"http:\/\/www.ss.ncu.edu.tw\/~ssoffice\/",
@@ -11495,8 +11495,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.874997Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-12-11T12:47:30.659432Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=47458",
     "is_frequency_violator":false,
     "associated_satellites":[
 

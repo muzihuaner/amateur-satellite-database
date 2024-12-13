@@ -17139,12 +17139,12 @@
   },
   {
     "name":"SWSU-60",
-    "norad_id":null,
+    "norad_id":"61767",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
     "mode":"1135bps AFSK",
-    "callsign":null,
+    "callsign":"RS41S",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -20120,12 +20120,12 @@
   },
   {
     "name":"YuZGU-60",
-    "norad_id":null,
+    "norad_id":"61767",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
     "mode":"1135bps AFSK",
-    "callsign":null,
+    "callsign":"RS41S",
     "status":"unknown",
     "satnogs_id":null
   },

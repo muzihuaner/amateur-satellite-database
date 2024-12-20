@@ -7250,14 +7250,14 @@
   },
   {
     "name":"Gorizont",
-    "norad_id":null,
+    "norad_id":"61757",
     "uplink":null,
-    "downlink":null,
+    "downlink":"435.430",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
+    "mode":"9600bps GMSK CW",
+    "callsign":"RS59S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"YDID-3447-4202-8525-9942"
   },
   {
     "name":"Gossamer Piccolomini",
@@ -7657,7 +7657,7 @@
   },
   {
     "name":"HOD-HOD-1A",
-    "norad_id":null,
+    "norad_id":"61768",
     "uplink":null,
     "downlink":"436.250",
     "beacon":null,
@@ -7679,14 +7679,14 @@
   },
   {
     "name":"Horizon",
-    "norad_id":"61755",
+    "norad_id":"61757",
     "uplink":null,
     "downlink":"435.430",
     "beacon":null,
     "mode":"9600bps GMSK CW",
     "callsign":"RS59S",
     "status":"unknown",
-    "satnogs_id":"IVCK-0330-2812-2301-8665"
+    "satnogs_id":"YDID-3447-4202-8525-9942"
   },
   {
     "name":"Hors-1",
@@ -10876,7 +10876,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LNIX-1421-5820-7502-3419"
   },
   {
     "name":"MuSat-1",
@@ -13113,7 +13113,7 @@
   },
   {
     "name":"Polytech_Universe-4",
-    "norad_id":"61768",
+    "norad_id":"61747",
     "uplink":null,
     "downlink":"437.785",
     "beacon":null,
@@ -15709,14 +15709,14 @@
   },
   {
     "name":"SITRO-AIS-43",
-    "norad_id":"61757",
+    "norad_id":"61755",
     "uplink":null,
     "downlink":"401.145",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2331",
     "status":"unknown",
-    "satnogs_id":"YDID-3447-4202-8525-9942"
+    "satnogs_id":"IVCK-0330-2812-2301-8665"
   },
   {
     "name":"SITRO-AIS-44",
@@ -18465,7 +18465,7 @@
     "beacon":"435.6125",
     "mode":"9600bps GMSK CCSDS",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"CWOU-6477-1088-4545-3931"
   },
   {

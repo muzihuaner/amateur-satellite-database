@@ -11945,8 +11945,8 @@
     "name":"NANOSATC-BR2",
     "names":"NCBR-2, NCBR2",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-12T00:00:00Z",
     "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.nanosats.eu\/sat\/nanosatc-br2",
@@ -11955,8 +11955,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-11T19:52:45.783063Z",
-    "citation":"Celestrak",
+    "updated":"2025-01-14T01:05:45.689909Z",
+    "citation":"own observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45056,8 +45056,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-06-08T02:10:01.169162Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/309",
+    "updated":"2025-01-14T01:06:13.722635Z",
+    "citation":".",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51174,7 +51174,7 @@
     "image":"satellites\/INNOCUBE.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
     "website":"https:\/\/www.tu.berlin\/en\/raumfahrttechnik\/research\/current-projects\/innocube",
     "operator":"TU Berlin",
@@ -51182,8 +51182,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-08T23:24:04.605168Z",
-    "citation":"image shared by mission team via public matrix channel",
+    "updated":"2025-01-14T01:36:14.636840Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51198,7 +51198,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
     "website":"https:\/\/www.amsat-ea.org\/",
     "operator":"None",
@@ -51206,8 +51206,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-08T23:39:19.941598Z",
-    "citation":"fixed typo",
+    "updated":"2025-01-14T01:06:45.921096Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51242,11 +51242,11 @@
     "norad_cat_id":98707.0,
     "norad_follow_id":null,
     "name":"PARUS-T1",
-    "names":"",
-    "image":"",
+    "names":"BN0TIT, \u5c71\u96c0-T1",
+    "image":"satellites\/PARUS-T1.jpg",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -51254,8 +51254,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-08T22:51:49.046479Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=982",
+    "updated":"2025-01-14T00:52:06.902652Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51305,6 +51305,30 @@
     "updated":"2025-01-08T22:57:51.985229Z",
     "citation":"https:\/\/github.com\/AFS-pt\/PROMETHEUS-1",
     "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LKHA-6040-0473-3608-3062",
+    "norad_cat_id":98704.0,
+    "norad_follow_id":null,
+    "name":"HCT-SAT1",
+    "names":"",
+    "image":"satellites\/HCT-SAT-1.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"AE",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T00:51:34.210774Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]

@@ -1844,7 +1844,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"BALKAN",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7828,7 +7828,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"OK0BDT",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8735,7 +8735,7 @@
   },
   {
     "name":"ION-SCV-014",
-    "norad_id":null,
+    "norad_id":"62628",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
@@ -8900,7 +8900,7 @@
   },
   {
     "name":"IRIS-F2",
-    "norad_id":null,
+    "norad_id":"62683",
     "uplink":null,
     "downlink":"400.915\/2280.000",
     "beacon":null,
@@ -8911,7 +8911,7 @@
   },
   {
     "name":"IRIS-F3",
-    "norad_id":null,
+    "norad_id":"62619",
     "uplink":null,
     "downlink":"400.920\/2280.000",
     "beacon":null,

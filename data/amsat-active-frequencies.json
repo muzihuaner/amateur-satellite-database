@@ -260,6 +260,16 @@
     "satnogs_id":"IKZL-1016-6920-2274-7552"
   },
   {
+    "name":"BALKAN-1",
+    "norad_id":"62611",
+    "uplink":null,
+    "downlink":"401.360\/2102.500",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"BALKAN",
+    "satnogs_id":null
+  },
+  {
     "name":"BARRY-1",
     "norad_id":"58338",
     "uplink":null,
@@ -1701,7 +1711,7 @@
   },
   {
     "name":"ION-SCV-014",
-    "norad_id":null,
+    "norad_id":"62628",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
@@ -1781,7 +1791,7 @@
   },
   {
     "name":"IRIS-F2",
-    "norad_id":null,
+    "norad_id":"62683",
     "uplink":null,
     "downlink":"400.915\/2280.000",
     "beacon":null,
@@ -1791,7 +1801,7 @@
   },
   {
     "name":"IRIS-F3",
-    "norad_id":null,
+    "norad_id":"62619",
     "uplink":null,
     "downlink":"400.920\/2280.000",
     "beacon":null,

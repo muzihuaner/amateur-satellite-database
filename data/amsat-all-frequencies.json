@@ -2790,7 +2790,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6 FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {

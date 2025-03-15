@@ -495,6 +495,17 @@
     "satnogs_id":"BYLD-5095-5765-9404-4681"
   },
   {
+    "name":"Al-Munther",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"AMAN-1",
     "norad_id":null,
     "uplink":null,
@@ -2548,7 +2559,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -2845,7 +2856,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -4255,6 +4266,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"ZKYN-9221-2374-5641-3454"
+  },
+  {
+    "name":"CORTEZ",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"CORVUS-BC2",
@@ -7084,6 +7106,17 @@
     "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
+    "name":"Frazier",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500\/401.100",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"FSI-SAT",
     "norad_id":null,
     "uplink":null,
@@ -7762,7 +7795,7 @@
     "beacon":"436.666",
     "mode":"200-2k4_FSK FM CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7916,7 +7949,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8294,6 +8327,17 @@
     "satnogs_id":null
   },
   {
+    "name":"HYDRA-W",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.780",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"HYPE",
     "norad_id":"62687",
     "uplink":null,
@@ -8324,6 +8368,17 @@
     "mode":"FM",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"HYVRID",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8829,7 +8884,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -9346,7 +9401,7 @@
     "beacon":null,
     "mode":"9600bps BPSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -11418,6 +11473,17 @@
     "satnogs_id":"GTMF-2365-6960-5386-3224"
   },
   {
+    "name":"M-SEL",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"N3SS",
     "norad_id":"58020",
     "uplink":null,
@@ -11755,7 +11821,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -12452,6 +12518,17 @@
     "satnogs_id":"WPPP-5073-6177-3453-1599"
   },
   {
+    "name":"NUSHSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.200",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"NUTSAT",
     "norad_id":"55124",
     "uplink":null,
@@ -12808,6 +12885,17 @@
     "norad_id":null,
     "uplink":null,
     "downlink":"2220.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"OTP-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -17171,6 +17259,17 @@
     "satnogs_id":"RINJ-3108-9789-8075-5047"
   },
   {
+    "name":"Sphinx",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500\/401.100",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"SpinSat",
     "norad_id":"40314",
     "uplink":null,
@@ -18784,7 +18883,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -18795,7 +18894,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -18806,7 +18905,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -18817,7 +18916,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -18828,7 +18927,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -18839,7 +18938,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -18850,7 +18949,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -18861,7 +18960,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -18872,7 +18971,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -20269,7 +20368,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {

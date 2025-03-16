@@ -310,6 +310,16 @@
     "satnogs_id":"MMZL-7798-8557-0116-9958"
   },
   {
+    "name":"BOTSAT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.360",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"BOTSAT",
+    "satnogs_id":null
+  },
+  {
     "name":"BRO-4",
     "norad_id":"49066",
     "uplink":null,
@@ -1680,6 +1690,16 @@
     "satnogs_id":null
   },
   {
+    "name":"ION-SCV-017",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.415\/2275.500",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"IO-86",
     "norad_id":"40931",
     "uplink":"145.880\/145.825",
@@ -2308,6 +2328,16 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "satnogs_id":"LXXL-2333-4110-5964-9846"
+  },
+  {
+    "name":"NUSHSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.200",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"OOV-Cube",
@@ -3525,9 +3555,79 @@
     "uplink":null,
     "downlink":"437.450\/5831.000",
     "beacon":"437.450",
-    "mode":"1k2AFSK\/9k6GMSK\/115k2FSK CW*",
+    "mode":"1k2AFSK 9k6GMSK 115k2FSK CW*",
     "callsign":"JS1YHH",
     "satnogs_id":"UYHX-6974-4483-5549-8559"
+  },
+  {
+    "name":"TEVEL-2-1",
+    "norad_id":null,
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"TVL2-1-1",
+    "satnogs_id":null
+  },
+  {
+    "name":"TEVEL-2-2",
+    "norad_id":null,
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"TVL2-2-1",
+    "satnogs_id":null
+  },
+  {
+    "name":"TEVEL-2-3",
+    "norad_id":null,
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"TVL2-3-1",
+    "satnogs_id":null
+  },
+  {
+    "name":"TEVEL-2-4",
+    "norad_id":null,
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"TVL2-4-1",
+    "satnogs_id":null
+  },
+  {
+    "name":"TEVEL-2-5",
+    "norad_id":null,
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"TVL2-5-1",
+    "satnogs_id":null
+  },
+  {
+    "name":"TEVEL-2-7",
+    "norad_id":null,
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"TVL2-7-1",
+    "satnogs_id":null
+  },
+  {
+    "name":"TEVEL-2-9",
+    "norad_id":null,
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"TVL2-9-1",
+    "satnogs_id":null
   },
   {
     "name":"Thybolt-1",

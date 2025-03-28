@@ -21186,6 +21186,17 @@
     "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
+    "name":"YAM-5",
+    "norad_id":"55076",
+    "uplink":null,
+    "downlink":"400.100\/401.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"YWEP-1897-4060-1849-8088"
+  },
+  {
     "name":"YAM-6",
     "norad_id":"59126",
     "uplink":null,

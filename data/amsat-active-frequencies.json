@@ -2090,16 +2090,6 @@
     "satnogs_id":"PDTE-7914-8172-6131-7029"
   },
   {
-    "name":"MTCube-1",
-    "norad_id":"44395",
-    "uplink":null,
-    "downlink":"436.750",
-    "beacon":null,
-    "mode":"9600bps GFSK",
-    "callsign":"OK0LSR",
-    "satnogs_id":null
-  },
-  {
     "name":"MYSAT-2",
     "norad_id":"49017",
     "uplink":null,
@@ -2458,16 +2448,6 @@
     "mode":"1k2*\/9k6 BPSK",
     "callsign":"RANDEV",
     "satnogs_id":"LYKB-5376-2648-5150-0020"
-  },
-  {
-    "name":"ROBUSTA-1C",
-    "norad_id":"44395",
-    "uplink":null,
-    "downlink":"436.750",
-    "beacon":null,
-    "mode":"9600bps GFSK",
-    "callsign":"OK0LSR",
-    "satnogs_id":null
   },
   {
     "name":"ROBUSTA-1E",

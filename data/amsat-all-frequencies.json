@@ -11644,8 +11644,8 @@
     "downlink":"436.750",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":"OK0LSR",
-    "status":"active",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -15010,8 +15010,8 @@
     "downlink":"436.750",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":"OK0LSR",
-    "status":"active",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {

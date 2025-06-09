@@ -12180,9 +12180,9 @@
     "name":"NOAA-2",
     "norad_id":"6235",
     "uplink":null,
-    "downlink":"1.698GHz",
+    "downlink":"137.620",
     "beacon":null,
-    "mode":"HRPT",
+    "mode":"APT",
     "callsign":null,
     "status":"weather sat",
     "satnogs_id":"CLVL-1708-0584-5360-1752"

@@ -15400,6 +15400,17 @@
     "satnogs_id":"SEMQ-5896-1667-7154-6568"
   },
   {
+    "name":"RIDUSat-1",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"145.825\/145.980",
+    "beacon":null,
+    "mode":"APRS",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"RINCON",
     "norad_id":null,
     "uplink":null,

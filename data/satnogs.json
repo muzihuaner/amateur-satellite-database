@@ -55437,5 +55437,245 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"CWNT-5072-1644-9392-2654",
+    "norad_cat_id":98588.0,
+    "norad_follow_id":null,
+    "name":"Hyperfield-1B",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:13:39Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T08:21:44.530002Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XINU-9252-1582-7722-7388",
+    "norad_cat_id":98587.0,
+    "norad_follow_id":null,
+    "name":"TPA-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:13:50Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T08:27:31.495889Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XWXT-1615-5633-9630-7970",
+    "norad_cat_id":98586.0,
+    "norad_follow_id":null,
+    "name":"SATMAR",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:14:17Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T09:09:33.773106Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YRHO-3873-7803-0414-5598",
+    "norad_cat_id":64393.0,
+    "norad_follow_id":null,
+    "name":"Zhangheng 1-02",
+    "names":"2025-128A and CSES 1-02",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-14T00:00:00Z",
+    "deployed":"2025-06-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T09:48:28.598996Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1JzCLh4uvigsf31nKfITyMf6Cv98L0qAZkO5GkRdOmt4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TNIF-9489-4101-4135-4428",
+    "norad_cat_id":98585.0,
+    "norad_follow_id":null,
+    "name":"Otter Pup 2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:14:36Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T09:41:43.815316Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ENLC-4952-6681-1812-8294",
+    "norad_cat_id":98584.0,
+    "norad_follow_id":null,
+    "name":"BRO-18",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:14:57Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T10:14:00.458479Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RBAW-0155-7922-9410-2702",
+    "norad_cat_id":98583.0,
+    "norad_follow_id":null,
+    "name":"FOSSASAT-1E21",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:16:04Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T12:10:59.018256Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ONWG-6270-0673-9384-3627",
+    "norad_cat_id":98582.0,
+    "norad_follow_id":null,
+    "name":"ARCSTONE",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:16:14Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T12:14:33.504713Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JLJE-0670-3801-0857-8118",
+    "norad_cat_id":98581.0,
+    "norad_follow_id":null,
+    "name":"ION SCV Passionate Paula",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:16:22Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T12:18:28.215418Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MJWC-6105-7146-5103-2066",
+    "norad_cat_id":98580.0,
+    "norad_follow_id":null,
+    "name":"ION SCV Charismatic Carlus",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T23:38:40Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T12:18:35.570270Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

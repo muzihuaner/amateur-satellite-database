@@ -5071,7 +5071,7 @@
     "satnogs_id":"ZBVE-3642-7824-0324-5322"
   },
   {
-    "name":"CSTP-?.1",
+    "name":"CSTP-4.1",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -5082,7 +5082,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CSTP-?.2",
+    "name":"CSTP-4.2",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -5093,7 +5093,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CSTP-?.3",
+    "name":"CSTP-4.3",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -5104,7 +5104,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CSTP-?.4",
+    "name":"CSTP-4.4",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -7718,7 +7718,7 @@
     "beacon":null,
     "mode":"4k8\/9k6*GMSK_USP",
     "callsign":"RS85S",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {

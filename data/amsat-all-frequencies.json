@@ -12705,6 +12705,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Nahid-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"NanoDragon",
     "norad_id":"49398",
     "uplink":null,

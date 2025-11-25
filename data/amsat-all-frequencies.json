@@ -6684,7 +6684,7 @@
     "beacon":null,
     "mode":"2k4\/9k6*FSK",
     "callsign":"FX6FRC",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"OBZD-9153-9709-2837-1280"
   },
   {
@@ -13317,7 +13317,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -14978,7 +14978,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"XWTX-9859-8737-7609-7570"
   },
   {
@@ -16826,7 +16826,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -16848,7 +16848,7 @@
     "beacon":null,
     "mode":"2k4\/9k6*FSK",
     "callsign":"FX6FRC",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"FNGO-2772-5931-1779-2835"
   },
   {

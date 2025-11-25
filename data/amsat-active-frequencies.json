@@ -800,16 +800,6 @@
     "satnogs_id":"QTXY-8933-7836-7484-6250"
   },
   {
-    "name":"ENSO",
-    "norad_id":"58470",
-    "uplink":null,
-    "downlink":"436.250",
-    "beacon":null,
-    "mode":"2k4\/9k6*FSK",
-    "callsign":"FX6FRC",
-    "satnogs_id":"OBZD-9153-9709-2837-1280"
-  },
-  {
     "name":"EXO-0",
     "norad_id":"59175",
     "uplink":null,
@@ -1810,16 +1800,6 @@
     "satnogs_id":"XBMS-1269-7435-8541-4310"
   },
   {
-    "name":"PACE",
-    "norad_id":"58928",
-    "uplink":null,
-    "downlink":"2273.250",
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "satnogs_id":"XWTX-9859-8737-7609-7570"
-  },
-  {
     "name":"PCSAT-1",
     "norad_id":"26931",
     "uplink":"145.827",
@@ -1928,16 +1908,6 @@
     "mode":"1200bps AFSK\/GMSK*",
     "callsign":null,
     "satnogs_id":null
-  },
-  {
-    "name":"ROBUSTA-1E",
-    "norad_id":"58471",
-    "uplink":null,
-    "downlink":"436.250",
-    "beacon":null,
-    "mode":"2k4\/9k6*FSK",
-    "callsign":"FX6FRC",
-    "satnogs_id":"FNGO-2772-5931-1779-2835"
   },
   {
     "name":"ROBUSTA-3A",

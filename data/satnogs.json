@@ -58054,7 +58054,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-10T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/rapidtek.net\/en\/satellite",
     "operator":"None",
@@ -58062,8 +58062,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-07T09:46:44.315100Z",
-    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/RAPIDTEK\/125545223",
+    "updated":"2025-11-26T08:03:05.646655Z",
+    "citation":"Update launch date, https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58744,30 +58744,6 @@
     ]
   },
   {
-    "sat_id":"HHCI-2151-9440-7989-1358",
-    "norad_cat_id":98504.0,
-    "norad_follow_id":null,
-    "name":"CTS-1A",
-    "names":"",
-    "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2025-11-26T18:18:00Z",
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2025-11-20T14:57:21.291291Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"ZOKF-1808-2919-3310-9428",
     "norad_cat_id":98506.0,
     "norad_follow_id":null,
@@ -58954,7 +58930,7 @@
     ],
     "updated":"2025-11-20T14:57:21.391685Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -58987,7 +58963,7 @@
     "sat_id":"XSYX-9066-9977-0340-5352",
     "norad_cat_id":98514.0,
     "norad_follow_id":null,
-    "name":"TRYAD",
+    "name":"TRYAD-1",
     "names":"",
     "image":"satellites\/TRYAD-patch.png",
     "status":"future",
@@ -59000,8 +58976,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-20T15:00:12.304744Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-11-26T08:31:59.486811Z",
+    "citation":"Fix name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59264,8 +59240,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T11:01:19.540337Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "updated":"2025-11-26T08:03:40.831742Z",
+    "citation":"Citation",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59436,7 +59412,7 @@
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "HHCI-2151-9440-7989-1358"
     ]
   },
   {
@@ -59577,6 +59553,126 @@
 
     ],
     "updated":"2025-11-25T20:04:23.600332Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QPBG-1123-0916-8657-5641",
+    "norad_cat_id":98475.0,
+    "norad_follow_id":null,
+    "name":"PIAST-M",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-26T08:11:34.792569Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UTSO-4544-0680-0406-4840",
+    "norad_cat_id":98474.0,
+    "norad_follow_id":null,
+    "name":"PIAST-S1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-26T08:11:34.787919Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LDTD-7134-5031-7504-0965",
+    "norad_cat_id":98473.0,
+    "norad_follow_id":null,
+    "name":"PIAST-S2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-26T08:11:34.781341Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WXLE-1814-4207-0890-0965",
+    "norad_cat_id":98472.0,
+    "norad_follow_id":null,
+    "name":"TRYAD-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"https:\/\/space.auburn.edu\/tryad\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-26T08:33:13.240282Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DSNA-7326-7717-9075-2330",
+    "norad_cat_id":98471.0,
+    "norad_follow_id":null,
+    "name":"SPIN-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-26T08:57:39.867802Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[

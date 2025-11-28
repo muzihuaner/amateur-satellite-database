@@ -18970,10 +18970,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -32154,8 +32154,8 @@
     "name":"ArcCube-01",
     "names":"RS25S",
     "image":"satellites\/large_ARCCUBE_01_11138b4ff1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-27T00:00:00Z",
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
     "website":"https:\/\/spacepi.space\/wiki\/article\/arccube-01\/",
@@ -32164,8 +32164,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-07T00:28:49.741719Z",
-    "citation":"ikhnos identificated",
+    "updated":"2025-11-28T12:35:46.120884Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=57205",
     "is_frequency_violator":true,
     "associated_satellites":[
       "NIJZ-5008-6655-1155-3785"
@@ -59746,6 +59746,30 @@
     ],
     "updated":"2025-11-27T09:45:21.156376Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VVCO-9182-2144-7766-7316",
+    "norad_cat_id":null,
+    "norad_follow_id":null,
+    "name":"Foresail-1p",
+    "names":"OH2F1S, FS1p",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-28T18:18:00Z",
+    "deployed":null,
+    "website":"https:\/\/foresail.github.io\/",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-28T12:37:13.062266Z",
+    "citation":"-",
     "is_frequency_violator":false,
     "associated_satellites":[
 

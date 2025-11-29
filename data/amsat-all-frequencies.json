@@ -15691,7 +15691,7 @@
     "uplink":null,
     "downlink":"436.850\/2230.000",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

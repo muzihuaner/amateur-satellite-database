@@ -59250,7 +59250,7 @@
   {
     "sat_id":"TLQC-3012-7514-0280-5350",
     "norad_cat_id":98488.0,
-    "norad_follow_id":66655.0,
+    "norad_follow_id":66654.0,
     "name":"JACK-003",
     "names":"JAC",
     "image":"",
@@ -59264,8 +59264,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-30T12:10:58.415263Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/42",
+    "updated":"2025-11-30T15:47:36.630909Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/46",
     "is_frequency_violator":true,
     "associated_satellites":[
 

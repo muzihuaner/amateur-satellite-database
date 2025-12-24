@@ -60354,5 +60354,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"CKNU-3750-3657-8602-8162",
+    "norad_cat_id":98451.0,
+    "norad_follow_id":null,
+    "name":"Bluebird 06",
+    "names":"FM1",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-24T02:50:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-23T13:14:17.192222Z",
+    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/FM1\/125545285",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
   }
 ]

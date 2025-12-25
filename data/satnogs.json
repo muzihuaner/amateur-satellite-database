@@ -60278,7 +60278,7 @@
     ],
     "updated":"2025-12-24T12:33:45.449699Z",
     "citation":"ITU entry and decoded CW frames from Network observations",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -60310,7 +60310,7 @@
   {
     "sat_id":"NQDO-7389-4292-9152-0710",
     "norad_cat_id":98452.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66996.0,
     "name":"Slippers2Sat",
     "names":"S2S",
     "image":"",
@@ -60324,8 +60324,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-23T12:56:31.376522Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2025-12-24T13:44:55.425889Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -60308,6 +60308,78 @@
     ]
   },
   {
+    "sat_id":"CPWN-2484-4785-1722-0154",
+    "norad_cat_id":98450.0,
+    "norad_follow_id":null,
+    "name":"SAKHACUBE-CHOLBON",
+    "names":"RS18S, \u0427\u043e\u043b\u0431\u043e\u043d",
+    "image":"satellites\/cholbon.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.yksa.space\/projects\/missions\/sakhacube-cholbon",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.818423Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+      "BUCI-8407-3717-3202-7429"
+    ]
+  },
+  {
+    "sat_id":"KGYQ-5715-2443-6319-9345",
+    "norad_cat_id":98449.0,
+    "norad_follow_id":null,
+    "name":"Luca",
+    "names":"Lu\u010da, RS90S",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"https:\/\/spaceresearch.me\/projects\/",
+    "operator":"None",
+    "countries":"ME",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.704943Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KXQQ-3629-0199-1434-6296",
+    "norad_cat_id":98448.0,
+    "norad_follow_id":null,
+    "name":"QMR-KWT 2",
+    "names":"RS95S",
+    "image":"satellites\/QMR-KWT_2.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.orbital-space.com\/projects",
+    "operator":"None",
+    "countries":"KW,RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.687084Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"NQDO-7389-4292-9152-0710",
     "norad_cat_id":98452.0,
     "norad_follow_id":66996.0,
@@ -60357,7 +60429,7 @@
   },
   {
     "sat_id":"CKNU-3750-3657-8602-8162",
-    "norad_cat_id":98451.0,
+    "norad_cat_id":67232.0,
     "norad_follow_id":null,
     "name":"Bluebird 06",
     "names":"FM1",
@@ -60372,8 +60444,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-24T02:13:33.554257Z",
-    "citation":"https:\/\/community.libre.space\/t\/lvm3-m6-bluebird-block-2-2025-12-24-03-24-utc\/14194\/5",
+    "updated":"2025-12-28T12:15:04.579169Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -60422,6 +60494,414 @@
     ],
     "updated":"2025-12-27T11:02:02.339670Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/197S1HsUIVwvIUzhLPeHmjrQbBHmKAABySLWJwzP5UvI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XDBT-0752-3881-2494-2004",
+    "norad_cat_id":98446.0,
+    "norad_follow_id":null,
+    "name":"Sitro-AIS-57",
+    "names":"SC2371",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.559998Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DMRY-7394-2313-6941-2874",
+    "norad_cat_id":98445.0,
+    "norad_follow_id":null,
+    "name":"Sitro-AIS-58",
+    "names":"SC2359",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.798342Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LOCL-1140-8658-9838-2019",
+    "norad_cat_id":98444.0,
+    "norad_follow_id":null,
+    "name":"Sitro-AIS-59",
+    "names":"SC2356",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.651686Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MSEV-0781-3437-8674-1257",
+    "norad_cat_id":98443.0,
+    "norad_follow_id":null,
+    "name":"Sitro-AIS-60",
+    "names":"SC2348",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.633388Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XXPR-1027-0141-8746-6073",
+    "norad_cat_id":98442.0,
+    "norad_follow_id":null,
+    "name":"Sitro-AIS-61",
+    "names":"SC2349",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.535231Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EKFF-1806-2762-3857-5377",
+    "norad_cat_id":98441.0,
+    "norad_follow_id":null,
+    "name":"Sitro-AIS-62",
+    "names":"SC2372",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.740828Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PILJ-2186-2656-2086-5536",
+    "norad_cat_id":98440.0,
+    "norad_follow_id":null,
+    "name":"Sitro-AIS-63",
+    "names":"SC2351",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.597092Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EEXS-7894-5606-7237-7541",
+    "norad_cat_id":98439.0,
+    "norad_follow_id":null,
+    "name":"Sitro-AIS-64",
+    "names":"SC2352",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.760088Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CHSW-1660-5851-5135-1460",
+    "norad_cat_id":98438.0,
+    "norad_follow_id":null,
+    "name":"Sitro-AIS-65",
+    "names":"SC2353",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.838118Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LMVM-3866-8844-3494-6719",
+    "norad_cat_id":98437.0,
+    "norad_follow_id":null,
+    "name":"Sitro-TD-3",
+    "names":"SC2345",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.669068Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OXQR-5076-9059-4571-7711",
+    "norad_cat_id":98435.0,
+    "norad_follow_id":null,
+    "name":"Zorkiy-2M VPE",
+    "names":"A0X8A, A0X8B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.615068Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DSWV-1932-9005-0897-7687",
+    "norad_cat_id":98434.0,
+    "norad_follow_id":null,
+    "name":"Zorkiy-2M 5",
+    "names":"A0X9A, A0X9B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.779423Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IGYJ-8963-1038-8735-2733",
+    "norad_cat_id":98433.0,
+    "norad_follow_id":null,
+    "name":"Zorkiy-2M 7",
+    "names":"A0XAA, A0XAB",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.478795Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IDHH-6420-5209-8395-0471",
+    "norad_cat_id":98432.0,
+    "norad_follow_id":null,
+    "name":"DCS-1",
+    "names":"SCA0KR",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.508758Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SUUO-2809-0177-0542-2025",
+    "norad_cat_id":98431.0,
+    "norad_follow_id":null,
+    "name":"NasbSat-1",
+    "names":"S3809A, S3809B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.580055Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ENMR-1106-8768-2633-2018",
+    "norad_cat_id":98430.0,
+    "norad_follow_id":null,
+    "name":"NasbSat-2",
+    "names":"A2S5A, A2S5B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.722940Z",
+    "citation":"Set status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VQCA-1825-2248-2253-6001",
+    "norad_cat_id":98436.0,
+    "norad_follow_id":null,
+    "name":"Sitro-TD-4",
+    "names":"SC2354f",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T12:21:07.442928Z",
+    "citation":"Set status to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 

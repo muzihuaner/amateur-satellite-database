@@ -57996,7 +57996,7 @@
   {
     "sat_id":"KVUS-0486-2614-8565-9913",
     "norad_cat_id":98530.0,
-    "norad_follow_id":66673.0,
+    "norad_follow_id":66669.0,
     "name":"PHASMA-LAMARR",
     "names":"",
     "image":"satellites\/PHASMA-1.png",
@@ -58012,8 +58012,8 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2025-12-19T10:07:26.467298Z",
-    "citation":"https:\/\/community.libre.space\/t\/phasma-mission-phasma-lamarr-phasma-dirac\/13976\/127",
+    "updated":"2025-12-28T18:45:06.636327Z",
+    "citation":"https:\/\/community.libre.space\/t\/phasma-mission-phasma-lamarr-phasma-dirac\/13976\/128",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60903,6 +60903,54 @@
     "updated":"2025-12-28T12:21:07.442928Z",
     "citation":"Set status to alive",
     "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JXLH-6916-5606-6524-3299",
+    "norad_cat_id":98429.0,
+    "norad_follow_id":null,
+    "name":"Lobachevsky",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T13:34:38.568896Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/19",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XHOE-9718-5112-5196-7058",
+    "norad_cat_id":98428.0,
+    "norad_follow_id":null,
+    "name":"GALAPAGOS-UTE-SWSU",
+    "names":"HC1PX",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-28T20:44:15.662135Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/27",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]

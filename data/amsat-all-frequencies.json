@@ -9941,7 +9941,7 @@
     "mode":"12k5_GMSK LoRa",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LLEW-4775-7241-6889-7282"
   },
   {
     "name":"HuskySat-1",
@@ -14726,7 +14726,7 @@
     "mode":"12k5_GMSK LoRa",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LLEW-4775-7241-6889-7282"
   },
   {
     "name":"NMTSat",

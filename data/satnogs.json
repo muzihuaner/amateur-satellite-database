@@ -18913,8 +18913,8 @@
     "name":"Micius",
     "names":"Mozi, \u58a8\u5b50",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-25T20:08:41Z",
     "launched":"2016-08-17T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -18923,8 +18923,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-01-18T20:29:18.544483Z",
-    "citation":"https:\/\/en.wikipedia.org\/wiki\/Quantum_Experiments_at_Space_Scale",
+    "updated":"2026-01-28T12:14:17.208506Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=41731&PAYLOAD=1&MAX=500",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30073,8 +30073,8 @@
     "name":"JILIN-01 GAOFEN 3D 7",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-25T18:50:31Z",
     "launched":"2022-04-30T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -30083,8 +30083,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-18T13:08:48.234318Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/44",
+    "updated":"2026-01-28T12:14:08.373287Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=52392&PAYLOAD=1&MAX=500",
     "is_frequency_violator":false,
     "associated_satellites":[
 

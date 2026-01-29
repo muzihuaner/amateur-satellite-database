@@ -12741,7 +12741,7 @@
     "name":"LEOPARD",
     "norad_id":null,
     "uplink":null,
-    "downlink":"400.96\/2279.100",
+    "downlink":"400.960\/2279.100",
     "beacon":null,
     "mode":null,
     "callsign":null,

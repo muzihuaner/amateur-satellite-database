@@ -4522,7 +4522,7 @@
   },
   {
     "name":"CEVROSAT-1",
-    "norad_id":"66309",
+    "norad_id":"66308",
     "uplink":null,
     "downlink":"436.025",
     "beacon":null,
@@ -9568,6 +9568,17 @@
     "callsign":"JQ1YCX",
     "status":"re-entered",
     "satnogs_id":"VAJK-7711-8203-8371-3078"
+  },
+  {
+    "name":"HJS-6B",
+    "norad_id":"63249::2244.100",
+    "uplink":null,
+    "downlink":"FM",
+    "beacon":null,
+    "mode":"unknown",
+    "callsign":null,
+    "status":null,
+    "satnogs_id":null
   },
   {
     "name":"HMU-SAT2",

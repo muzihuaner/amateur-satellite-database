@@ -9490,10 +9490,12 @@
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"ax25monitor"
+      }
     ],
-    "updated":"2023-02-18T13:07:30.589980Z",
-    "citation":"space-track.org",
+    "updated":"2026-02-14T17:12:56.646060Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/psat-2\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

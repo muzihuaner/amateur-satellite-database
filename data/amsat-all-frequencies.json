@@ -8495,9 +8495,9 @@
     "name":"GALAPAGOS-UTE-SWSU",
     "norad_id":"67279",
     "uplink":null,
-    "downlink":"437.050",
+    "downlink":"435.750\/437.050*",
     "beacon":null,
-    "mode":"1143*_AFSK 9k6_GMSK SSTV",
+    "mode":"1143*AFSK 2k4FSK SSTV",
     "callsign":"HC1PX",
     "status":"active",
     "satnogs_id":null
@@ -12251,7 +12251,7 @@
     "mode":"9k6_GFSK",
     "callsign":"HS0K",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"SCWJ-8858-4107-1493-6553"
   },
   {
     "name":"Kolibri-S",

@@ -62205,11 +62205,11 @@
     "norad_cat_id":98394.0,
     "norad_follow_id":null,
     "name":"NUTSat-3",
-    "names":"",
+    "names":"BN0UTC",
     "image":"satellites\/WW.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2026-03-01T02:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -62219,8 +62219,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2026-02-15T13:35:55.309838Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1084",
+    "updated":"2026-02-28T12:22:14.425514Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=64035.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62365,6 +62365,102 @@
     ],
     "updated":"2026-02-27T04:53:41.004556Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1nQjHzKsczOk_y50V7LFm-jMVW_1QQPL019UR4WHbS60\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PLDS-0933-1230-1584-0303",
+    "norad_cat_id":98390.0,
+    "norad_follow_id":null,
+    "name":"TATARA-1R",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-01T02:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-28T11:52:32.574247Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=64035.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LLNR-4501-1609-1298-6232",
+    "norad_cat_id":98389.0,
+    "norad_follow_id":null,
+    "name":"SC-Sat1a",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-01T02:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-28T11:56:45.862209Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=64035.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XGIR-3495-8147-8265-2065",
+    "norad_cat_id":98388.0,
+    "norad_follow_id":null,
+    "name":"HErO",
+    "names":"Hiroo Engineering for Orbit, \u901a\u79f0",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-01T02:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-28T12:11:44.476433Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=64035.0 and https:\/\/www.hiroogakuen.ed.jp\/weblog\/archives\/48080",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KBGZ-6207-9097-8792-7939",
+    "norad_cat_id":98387.0,
+    "norad_follow_id":null,
+    "name":"AETS-1",
+    "names":"AE-SAT",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-01T02:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-28T12:17:30.696778Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=64035.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 

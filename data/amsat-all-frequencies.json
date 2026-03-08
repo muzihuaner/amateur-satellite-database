@@ -275,6 +275,17 @@
     "satnogs_id":null
   },
   {
+    "name":"ADE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"AENEAS",
     "norad_id":"38760",
     "uplink":null,
@@ -5289,6 +5300,50 @@
     "callsign":"KK6HIT",
     "status":"re-entered",
     "satnogs_id":"PRVO-2434-7302-8951-3277"
+  },
+  {
+    "name":"CP-13",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"CP-14",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"CP-15",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"CP-16",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.965",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"CroCube",
@@ -19193,6 +19248,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"CWCJ-6029-4779-5201-8503"
+  },
+  {
+    "name":"SAL-E",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.965",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"SamSat-218D",

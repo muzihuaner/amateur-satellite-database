@@ -58574,7 +58574,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2026-02-13T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/vsgacademy.com\/vegafly-1-radio-nghiep-du-va-ve-tinh-giao-duc.html",
     "operator":"None",
@@ -58582,8 +58582,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-04T16:17:33.973718Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T02:12:20.768014Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
       "IHPZ-6510-7381-6780-6404"
@@ -62142,16 +62142,16 @@
     "image":"satellites\/IMG_6952.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
-    "deployed":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
     "website":"",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2026-02-13T10:41:07.485072Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T03:10:21.245167Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
       "TZNH-3971-3016-4200-9227"
@@ -62357,10 +62357,10 @@
     "norad_follow_id":null,
     "name":"COSMO",
     "names":"Compact Spaceborne Magnetic Observatory",
-    "image":"",
+    "image":"satellites\/COSMO.png",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/culair.weebly.com\/cosmo.html",
     "operator":"None",
@@ -62368,8 +62368,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-13T16:20:23.781691Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T02:55:05.976378Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/work_items\/332",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62648,7 +62648,7 @@
     "image":"satellites\/sal-e.png",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/www.polysat.org\/in-development",
     "operator":"None",
@@ -62656,8 +62656,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-17T14:05:51.554733Z",
-    "citation":"Add temporary NORAD ID and launch date",
+    "updated":"2026-03-30T02:59:38.183068Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62672,7 +62672,7 @@
     "image":"satellites\/disco-2.png",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T13:20:00Z",
     "deployed":null,
     "website":"https:\/\/discosat.dk\/v2_disco-2\/",
     "operator":"None",
@@ -62680,8 +62680,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-17T14:06:50.117255Z",
-    "citation":"Add temporary NORAD ID and launch date",
+    "updated":"2026-03-30T03:22:57.105803Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=909",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62696,7 +62696,7 @@
     "image":"satellites\/HADES-SA.png",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/www.amsat-ea.org\/",
     "operator":"None",
@@ -62704,8 +62704,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-19T05:46:40.915024Z",
-    "citation":"see launch date",
+    "updated":"2026-03-30T02:18:41.522419Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62744,7 +62744,7 @@
     "image":"satellites\/t_microsat_2.png",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/www.tronfuture.com\/",
     "operator":"None",
@@ -62752,8 +62752,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-17T14:09:53.157891Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T03:13:34.728905Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62864,7 +62864,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-03-30T13:20:00Z",
+    "launched":"2025-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/peaksat.spacedot.gr\/",
     "operator":"None",
@@ -62874,8 +62874,8 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2026-03-28T20:02:50.554552Z",
-    "citation":"change status",
+    "updated":"2026-03-30T02:58:26.065119Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62938,7 +62938,7 @@
     "image":"satellites\/image_of_the_satellite.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/www.decimal-sat.org",
     "operator":"None",
@@ -62946,8 +62946,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-19T12:22:14.481651Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T02:05:07.875022Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63106,16 +63106,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-03-30T13:20:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.planetek.gr\/news_events\/news_archive\/2025\/10\/tesat_delivers_to_planetek_hellas_the_first_scot20_optical_communication_terminal_for_greeces_national_satellite_space_program",
     "operator":"None",
     "countries":"GR",
     "telemetries":[
 
     ],
-    "updated":"2026-03-27T07:23:01.009562Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T02:38:16.836528Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63130,7 +63130,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-03-30T13:20:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/www.planetek.gr\/news_events\/news_archive\/2025\/10\/tesat_delivers_to_planetek_hellas_the_first_scot20_optical_communication_terminal_for_greeces_national_satellite_space_program",
     "operator":"None",
@@ -63138,8 +63138,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-27T07:20:15.537476Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T03:05:13.271170Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63154,16 +63154,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-03-30T13:20:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.planetek.gr\/news_events\/news_archive\/2025\/10\/tesat_delivers_to_planetek_hellas_the_first_scot20_optical_communication_terminal_for_greeces_national_satellite_space_program",
     "operator":"None",
     "countries":"GR",
     "telemetries":[
 
     ],
-    "updated":"2026-03-27T07:23:01.801655Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T02:49:59.964786Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63178,16 +63178,88 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-03-30T13:20:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.planetek.gr\/news_events\/news_archive\/2025\/10\/tesat_delivers_to_planetek_hellas_the_first_scot20_optical_communication_terminal_for_greeces_national_satellite_space_program",
     "operator":"None",
     "countries":"GR",
     "telemetries":[
 
     ],
-    "updated":"2026-03-27T07:23:02.627683Z",
+    "updated":"2026-03-30T02:50:19.655481Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KXEN-6599-9366-4098-3918",
+    "norad_cat_id":98365.0,
+    "norad_follow_id":null,
+    "name":"JACK-002",
+    "names":"",
+    "image":"satellites\/JACK-002.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T01:59:05.620008Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IMHH-4032-1798-6391-5710",
+    "norad_cat_id":98366.0,
+    "norad_follow_id":null,
+    "name":"LUNA-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T01:52:20.462834Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZLVU-1189-2777-4843-4951",
+    "norad_cat_id":98364.0,
+    "norad_follow_id":null,
+    "name":"BRO-19",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T03:01:49.051116Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
 

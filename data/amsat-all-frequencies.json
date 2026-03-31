@@ -304,7 +304,7 @@
     "beacon":null,
     "mode":"9k6\/19k2GFSK 10MbpsOQPSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -5041,11 +5041,11 @@
     "name":"COSMO",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.200",
+    "downlink":"401.200\/2220.000",
     "beacon":null,
     "mode":"9k6\/19k2_GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -5353,7 +5353,7 @@
     "beacon":null,
     "mode":"9k6_GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -6200,7 +6200,7 @@
     "beacon":"436.600",
     "mode":"500\/1000GFSK SSDV",
     "callsign":null,
-    "status":"to be launched",
+    "status":"\/2220.000",
     "satnogs_id":null
   },
   {
@@ -6409,7 +6409,7 @@
     "beacon":null,
     "mode":"9k6_FSK\/GMSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"\/2220.000",
     "satnogs_id":null
   },
   {
@@ -7176,10 +7176,10 @@
     "norad_id":null,
     "uplink":null,
     "downlink":"401.334",
-    "beacon":null,
-    "mode":"9k6_GFSK",
+    "beacon":"401.334",
+    "mode":"9k6_GFSK CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7344,7 +7344,7 @@
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7355,7 +7355,7 @@
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7366,29 +7366,40 @@
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"ERMIS-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.238\/2218.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
     "name":"ERMIS-2",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.238\/2218.000",
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
     "name":"ERMIS-3",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.312\/2218.000",
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7942,17 +7953,6 @@
     "satnogs_id":null
   },
   {
-    "name":"FossaSat-2E",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":null,
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"to be launched",
-    "satnogs_id":null
-  },
-  {
     "name":"FossaSat-2E1",
     "norad_id":"50985",
     "uplink":null,
@@ -8214,6 +8214,17 @@
     "mode":"LoRa",
     "callsign":null,
     "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"FossaSat-2E25",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8715,11 +8726,11 @@
     "name":"GARAI-B",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"2243.000",
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -9221,11 +9232,11 @@
     "name":"GRAVITAS",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"400.575",
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -9478,7 +9489,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -11971,11 +11982,11 @@
     "name":"Jack-002",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"436.300",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_FSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13526,7 +13537,7 @@
     "beacon":null,
     "mode":"1k2_AFSK 2Mbps_GFSK",
     "callsign":"BN0YCA",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -16727,7 +16738,7 @@
     "beacon":null,
     "mode":"1k2_AFSK 9k6_GMSK FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -16738,7 +16749,7 @@
     "beacon":null,
     "mode":"1k2_AFSK 9k6_GMSK FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -16815,7 +16826,7 @@
     "beacon":null,
     "mode":"50kbps_FSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -19521,7 +19532,7 @@
     "beacon":null,
     "mode":"9k6_GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -24172,7 +24183,7 @@
     "uplink":null,
     "downlink":"401.580",
     "beacon":null,
-    "mode":null,
+    "mode":"4k8_GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -24181,9 +24192,9 @@
     "name":"TORO-3",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.580",
     "beacon":null,
-    "mode":null,
+    "mode":"4k8_GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -24647,7 +24658,7 @@
     "beacon":null,
     "mode":"9k6_GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -25582,7 +25593,7 @@
     "beacon":"436.655",
     "mode":"5k_GFSK CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -25996,11 +26007,11 @@
     "name":"WINNEBAGO-06",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"2272.500",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {

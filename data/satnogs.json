@@ -18974,10 +18974,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -62366,7 +62366,9 @@
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"cosmo"
+      }
     ],
     "updated":"2026-03-30T11:01:20.029979Z",
     "citation":"change status",
@@ -62874,8 +62876,8 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2026-03-30T11:01:19.540564Z",
-    "citation":"change status",
+    "updated":"2026-03-31T12:43:32.014092Z",
+    "citation":"Add dashboard",
     "is_frequency_violator":false,
     "associated_satellites":[
 

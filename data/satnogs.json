@@ -18974,10 +18974,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -62370,8 +62370,8 @@
         "decoder":"cosmo"
       }
     ],
-    "updated":"2026-03-30T11:01:20.029979Z",
-    "citation":"change status",
+    "updated":"2026-04-02T15:44:50.476533Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/bfhvxrnomp91ca",
     "is_frequency_violator":false,
     "associated_satellites":[
 

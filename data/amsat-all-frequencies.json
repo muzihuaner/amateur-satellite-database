@@ -3556,9 +3556,9 @@
     "name":"CANVAS",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"437.250\/2405.300",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_GMSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null

@@ -1732,9 +1732,9 @@
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3382,7 +3382,7 @@
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
-    "mode":"4k8_FSK",
+    "mode":"4k8\/9k6*FSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":null
@@ -7837,9 +7837,9 @@
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -9410,7 +9410,7 @@
     "uplink":null,
     "downlink":"400.575",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

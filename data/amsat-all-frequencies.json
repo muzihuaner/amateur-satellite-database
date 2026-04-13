@@ -13585,6 +13585,17 @@
     "satnogs_id":null
   },
   {
+    "name":"LAPAN-A1",
+    "norad_id":"29709",
+    "uplink":null,
+    "downlink":"436.075\/437.325",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"EFTT-0211-2244-5217-1489"
+  },
+  {
     "name":"LAPAN-A2",
     "norad_id":"40931",
     "uplink":"145.825\/145.880",
@@ -23989,6 +24000,17 @@
     "callsign":"KF6RFX",
     "status":"re-entered",
     "satnogs_id":"PHAW-0441-2366-3085-1098"
+  },
+  {
+    "name":"TCU-01",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.325\/437.750",
+    "beacon":null,
+    "mode":"1k2_AFSK 9k6_GMSK SSTV CW",
+    "callsign":null,
+    "status":null,
+    "satnogs_id":null
   },
   {
     "name":"TechEdSat-1",

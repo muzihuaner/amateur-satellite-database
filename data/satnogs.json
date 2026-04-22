@@ -64254,5 +64254,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"IFKU-9201-2588-0809-6295",
+    "norad_cat_id":98329.0,
+    "norad_follow_id":null,
+    "name":"ARICA-2",
+    "names":"JS1YSD",
+    "image":"satellites\/ARICA-2.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-04-23T00:00:00Z",
+    "deployed":"2026-04-23T00:00:00Z",
+    "website":"https:\/\/sakamotolab.phys.aoyama.ac.jp\/research\/future_space\/ARICA-2_en",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-22T13:52:09.943879Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

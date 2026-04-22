@@ -10725,17 +10725,6 @@
     "satnogs_id":null
   },
   {
-    "name":"ICEYEX",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"2246.000",
-    "beacon":null,
-    "mode":"FM",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
-  },
-  {
     "name":"ICEYE-X2",
     "norad_id":"43800",
     "uplink":null,
@@ -10743,7 +10732,7 @@
     "beacon":null,
     "mode":"400k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"NSPV-9593-9175-6289-3371"
   },
   {
@@ -10765,7 +10754,7 @@
     "beacon":null,
     "mode":"200k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"YCLY-4398-7028-5737-9490"
   },
   {
@@ -10787,7 +10776,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"NQEE-1098-1368-4766-7853"
   },
   {
@@ -10798,7 +10787,7 @@
     "beacon":null,
     "mode":"300k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"XGQN-0763-0835-9355-9632"
   },
   {
@@ -10809,7 +10798,7 @@
     "beacon":null,
     "mode":"200k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"SSEY-7057-5383-9568-0000"
   },
   {
@@ -10864,7 +10853,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"ZFPH-8174-9459-7741-8605"
   },
   {
@@ -10875,7 +10864,7 @@
     "beacon":null,
     "mode":"120k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"NUNX-6098-9706-5334-8193"
   },
   {
@@ -10919,7 +10908,7 @@
     "beacon":null,
     "mode":"300k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"EKEV-2475-0686-4767-6528"
   },
   {
@@ -10930,7 +10919,7 @@
     "beacon":null,
     "mode":"500k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"NKRC-1929-7689-8649-7679"
   },
   {
@@ -10941,7 +10930,7 @@
     "beacon":null,
     "mode":"150k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"RDVD-6141-5071-3592-3175"
   },
   {
@@ -10952,7 +10941,7 @@
     "beacon":null,
     "mode":"200k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"QGER-1658-8242-4384-5921"
   },
   {
@@ -10996,7 +10985,7 @@
     "beacon":null,
     "mode":"400k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"RMUL-5899-3414-6296-5587"
   },
   {
@@ -11007,7 +10996,7 @@
     "beacon":null,
     "mode":"200k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"STFI-9412-5959-1288-6091"
   },
   {
@@ -11018,7 +11007,7 @@
     "beacon":null,
     "mode":"200k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"EKGS-1775-7283-6432-2178"
   },
   {
@@ -11051,7 +11040,7 @@
     "beacon":null,
     "mode":"400k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"MPEW-7006-9645-6140-4097"
   },
   {
@@ -11062,7 +11051,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"CJIB-5087-6895-1673-1473"
   },
   {
@@ -11084,7 +11073,7 @@
     "beacon":null,
     "mode":"400k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"GZXN-1336-4265-9976-3059"
   },
   {
@@ -11095,7 +11084,7 @@
     "beacon":null,
     "mode":"300k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"BKER-3193-7253-4048-2548"
   },
   {
@@ -11106,7 +11095,7 @@
     "beacon":null,
     "mode":"500k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"EMBZ-4725-4013-6941-3585"
   },
   {
@@ -11128,7 +11117,7 @@
     "beacon":null,
     "mode":"400k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"JIUX-8369-4848-5352-0547"
   },
   {
@@ -11139,7 +11128,7 @@
     "beacon":null,
     "mode":"500k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"NIPW-8425-7001-2213-0488"
   },
   {
@@ -11161,7 +11150,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"AABR-3536-2999-0450-7982"
   },
   {
@@ -11172,7 +11161,7 @@
     "beacon":null,
     "mode":"400k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"AVNA-5006-9771-6873-2104"
   },
   {
@@ -11183,7 +11172,7 @@
     "beacon":null,
     "mode":"400k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"EIKR-2979-0745-1303-0282"
   },
   {
@@ -11194,19 +11183,19 @@
     "beacon":null,
     "mode":"300k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"NEFX-0140-3722-5286-7867"
   },
   {
     "name":"ICEYE-X44",
-    "norad_id":null,
+    "norad_id":"62707",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2269.725",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"JUZY-8128-3389-0634-7401"
   },
   {
     "name":"ICEYE-X45",
@@ -11216,7 +11205,7 @@
     "beacon":null,
     "mode":"400k BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"DRGA-2213-9727-7220-9890"
   },
   {
@@ -11271,7 +11260,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"IZVD-0255-5665-7405-4547"
   },
   {
@@ -11315,7 +11304,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"inactive",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -18052,14 +18041,14 @@
   },
   {
     "name":"PHASMA-LAMARR",
-    "norad_id":"66683",
+    "norad_id":"66673",
     "uplink":null,
     "downlink":"400.550\/2208.000",
     "beacon":null,
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"KVUS-0486-2614-8565-9913"
   },
   {
     "name":"PHI-1",

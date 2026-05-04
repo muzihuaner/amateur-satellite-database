@@ -64808,5 +64808,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"JDII-0631-6681-0320-8864",
+    "norad_cat_id":98308.0,
+    "norad_follow_id":null,
+    "name":"Hydra-3",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-05-03T00:00:00Z",
+    "deployed":"2026-05-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-03T16:21:42.153469Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

@@ -340,6 +340,16 @@
     "satnogs_id":null
   },
   {
+    "name":"BRO-21",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-2",
     "norad_id":"57175",
     "uplink":"436.200",
@@ -738,6 +748,16 @@
     "mode":"9600bps GFSK",
     "callsign":"WX9XKR",
     "satnogs_id":"VWXG-4101-0824-5480-8078"
+  },
+  {
+    "name":"CTS-SAT1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.150",
+    "beacon":null,
+    "mode":"9k6_GMSK FSK*",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"CubeBel-2",
@@ -1148,6 +1168,16 @@
     "mode":"4k8 GMSK image data",
     "callsign":"CAS5A",
     "satnogs_id":"THLP-9709-3501-8618-5195"
+  },
+  {
+    "name":"FrontierSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.150",
+    "beacon":null,
+    "mode":"9k6_GMSK FSK*",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"FSI-SAT2",

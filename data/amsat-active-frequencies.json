@@ -1220,6 +1220,16 @@
     "satnogs_id":"XHOE-9718-5112-5196-7058"
   },
   {
+    "name":"Gemini-Pollux",
+    "norad_id":null,
+    "uplink":"145.900",
+    "downlink":"437.200",
+    "beacon":null,
+    "mode":"1k2\/9k6*BPSK FM",
+    "callsign":"BN0HMA-1",
+    "satnogs_id":null
+  },
+  {
     "name":"Geoscan-1",
     "norad_id":"64880",
     "uplink":null,
@@ -1450,7 +1460,7 @@
     "satnogs_id":"ISTU-1593-3487-2251-7574"
   },
   {
-    "name":"HYDRA-2",
+    "name":"Hydra-2",
     "norad_id":null,
     "uplink":null,
     "downlink":"401.320",
@@ -2338,6 +2348,26 @@
     "mode":"1200bps AFSK",
     "callsign":"(A) W3ADO-1",
     "satnogs_id":"MIOI-0494-0446-3367-1916"
+  },
+  {
+    "name":"PEARL-1A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.540",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"PEARLA",
+    "satnogs_id":null
+  },
+  {
+    "name":"PEARL-1B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.620",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"PEARLB",
+    "satnogs_id":null
   },
   {
     "name":"PHI-1",

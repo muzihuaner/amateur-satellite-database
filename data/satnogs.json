@@ -64540,7 +64540,9 @@
     "operator":"None",
     "countries":"CA",
     "telemetries":[
-
+      {
+        "decoder":"frontiersat"
+      }
     ],
     "updated":"2026-05-10T13:00:58.526989Z",
     "citation":"https:\/\/community.libre.space\/t\/cas500-2-rideshare-vsfb-slc-4e-2026-05-03-6-59-utc\/14688\/147",

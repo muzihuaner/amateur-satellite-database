@@ -115,7 +115,7 @@
     "uplink":null,
     "downlink":"436.830",
     "beacon":"436.830",
-    "mode":"4k8_GMSK CW*",
+    "mode":"4k8_GMSK CW",
     "callsign":"JS1YSD",
     "satnogs_id":null
   },
@@ -1221,7 +1221,7 @@
   },
   {
     "name":"Gemini-Pollux",
-    "norad_id":"68998",
+    "norad_id":null,
     "uplink":"145.900",
     "downlink":"437.200",
     "beacon":null,

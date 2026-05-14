@@ -64535,7 +64535,7 @@
     "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
-    "deployed":null,
+    "deployed":"2026-05-03T08:15:52Z",
     "website":"https:\/\/www.calgarytospace.ca\/",
     "operator":"None",
     "countries":"CA",
@@ -64544,8 +64544,8 @@
         "decoder":"frontiersat"
       }
     ],
-    "updated":"2026-05-10T13:00:58.526989Z",
-    "citation":"https:\/\/community.libre.space\/t\/cas500-2-rideshare-vsfb-slc-4e-2026-05-03-6-59-utc\/14688\/147",
+    "updated":"2026-05-14T13:24:08.566375Z",
+    "citation":"https:\/\/github.com\/CalgaryToSpace\/CTS-SAT-1-Wiki\/wiki",
     "is_frequency_violator":false,
     "associated_satellites":[
       "OKRS-0223-6789-8199-6406"

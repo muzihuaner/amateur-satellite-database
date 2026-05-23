@@ -58573,7 +58573,7 @@
     "norad_follow_id":68437.0,
     "name":"VEGAFLY-1",
     "names":"XV5T",
-    "image":"",
+    "image":"satellites\/vegafly.jpeg",
     "status":"alive",
     "decayed":null,
     "launched":"2026-03-30T11:02:00Z",
@@ -58584,8 +58584,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-22T13:04:28.700295Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/202",
+    "updated":"2026-05-23T11:40:36.556244Z",
+    "citation":"community post: https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/209",
     "is_frequency_violator":false,
     "associated_satellites":[
       "IHPZ-6510-7381-6780-6404"

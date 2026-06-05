@@ -10835,6 +10835,17 @@
     "satnogs_id":null
   },
   {
+    "name":"HUILIANWANG-DIGUI-81",
+    "norad_id":"65313",
+    "uplink":null,
+    "downlink":"2244.575",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Humsat-D",
     "norad_id":"39433",
     "uplink":null,
@@ -27494,7 +27505,7 @@
     "uplink":null,
     "downlink":"2265.000",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unkown",
     "satnogs_id":null
@@ -27505,7 +27516,7 @@
     "uplink":null,
     "downlink":"2265.000",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unkown",
     "satnogs_id":null

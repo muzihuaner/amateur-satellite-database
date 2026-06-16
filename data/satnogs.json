@@ -39712,18 +39712,18 @@
     "name":"MDQUBESAT-2",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2026-06-04T00:00:00Z",
+    "launched":"2023-12-01T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"AR",
     "telemetries":[
 
     ],
-    "updated":"2024-07-14T17:46:39.383025Z",
-    "citation":"tiny.gs and space-track.org",
+    "updated":"2026-06-16T08:39:09.244408Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=58665",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -64770,7 +64770,7 @@
   {
     "sat_id":"EPSO-2740-8746-3078-9656",
     "norad_cat_id":98311.0,
-    "norad_follow_id":69002.0,
+    "norad_follow_id":69007.0,
     "name":"BRO-21",
     "names":"",
     "image":"",
@@ -64784,8 +64784,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-10T13:00:58.247675Z",
-    "citation":"https:\/\/community.libre.space\/t\/cas500-2-rideshare-vsfb-slc-4e-2026-05-03-6-59-utc\/14688\/149",
+    "updated":"2026-06-16T15:55:52.611073Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 

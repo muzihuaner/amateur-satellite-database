@@ -3077,18 +3077,18 @@
     "mode":"2k4 FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"WTTI-1401-2311-7017-8218"
   },
   {
     "name":"BlueBird-09",
     "norad_id":"69590",
     "uplink":null,
-    "downlink":"439.500",
+    "downlink":"434.100",
     "beacon":null,
     "mode":"2k4 FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"WFJJ-3958-9545-1086-4408"
   },
   {
     "name":"BlueBird-10",
@@ -3099,7 +3099,7 @@
     "mode":"2k4 FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LDPM-8730-8720-5707-6861"
   },
   {
     "name":"BlueBon",

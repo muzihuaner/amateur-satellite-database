@@ -2964,14 +2964,14 @@
     "decayed":null,
     "launched":"2013-11-21T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/funcube.org.uk\/",
     "operator":"None",
-    "countries":"",
+    "countries":"GB,NL",
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T04:24:21.296047Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/funcube-1.htm",
+    "updated":"2026-06-27T19:31:47.296053Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/FUNcube-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 

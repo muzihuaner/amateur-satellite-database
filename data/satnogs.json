@@ -3682,8 +3682,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2026-08-22T18:20:11.174642Z",
-    "citation":"https:\/\/www.aprs.org\/psat.html",
+    "updated":"2026-08-27T08:25:41.986556Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/no84\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62797,9 +62797,9 @@
     "sat_id":"YYJY-0635-5567-8703-7935",
     "norad_cat_id":67254.0,
     "norad_follow_id":null,
-    "name":"Object G",
+    "name":"AIST-2T-2",
     "names":"2025-313G",
-    "image":"",
+    "image":"satellites\/aist-2t.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-12-28T00:00:00Z",
@@ -62810,8 +62810,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-13T14:33:30.109791Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1eQ8NOP1tuCfMyIAsuTCiDfbQttK0VReI_rqIijs32PA\/edit?usp=sharing this could be AIST-2T-2",
+    "updated":"2026-08-27T08:25:03.299282Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=67254&PAYLOAD=1&MAX=500",
     "is_frequency_violator":false,
     "associated_satellites":[
 

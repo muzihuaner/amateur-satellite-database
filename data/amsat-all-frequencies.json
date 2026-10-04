@@ -7579,6 +7579,28 @@
     "satnogs_id":null
   },
   {
+    "name":"EduSat-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"EduSat-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"EGG",
     "norad_id":"41934",
     "uplink":null,
@@ -9766,6 +9788,17 @@
     "callsign":"N7GAS",
     "status":"re-entered",
     "satnogs_id":"NYPQ-6177-1118-6247-2663"
+  },
+  {
+    "name":"GBSAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"GCOM-W1",

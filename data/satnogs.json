@@ -23933,10 +23933,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -78139,12 +78139,12 @@
     "sat_id":"EARJ-4650-0809-6617-4860",
     "norad_cat_id":98385.0,
     "norad_follow_id":null,
-    "name":"SanoSat-2.0",
+    "name":"SanoSat-2",
     "names":"UTNH-SAJILO-SAT",
     "image":"satellites\/Sanosat2-satnogsdb.JPG",
-    "status":"future",
+    "status":"in orbit",
     "decayed":null,
-    "launched":"2026-06-01T00:00:00Z",
+    "launched":"2026-10-01T18:32:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -78152,11 +78152,11 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-13T17:06:58.130900Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-10-04T05:26:13.974691Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-18-rideshare-vsfb-slc-4e-2026-10-01-18-32-utc\/14924\/117",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "HVGS-6941-5465-7026-3510"
     ],
     "reception_status":"Unknown",
     "reception_evidence":{
@@ -84488,7 +84488,7 @@
     "name":"NIS-PQ",
     "names":"QUBIK-5",
     "image":"",
-    "status":"future",
+    "status":"in orbit",
     "decayed":null,
     "launched":"2026-10-01T18:32:00Z",
     "deployed":null,
@@ -84498,8 +84498,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-10-03T14:01:57.710380Z",
-    "citation":"https:\/\/dashboard.satnogs.org\/d\/eg04ajqcp7bpcc",
+    "updated":"2026-10-03T19:54:53.731195Z",
+    "citation":"admin request for change",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -84710,6 +84710,66 @@
     ],
     "updated":"2026-10-01T20:54:36.939664Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"CQLO-6712-3512-5210-2074",
+    "norad_cat_id":98214.0,
+    "norad_follow_id":null,
+    "name":"EduSat-2",
+    "names":"",
+    "image":"satellites\/missionbagde.jpg",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"BR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T05:29:00.858864Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"JZCE-3251-2667-6320-0541",
+    "norad_cat_id":98213.0,
+    "norad_follow_id":null,
+    "name":"EduSat-3",
+    "names":"",
+    "image":"satellites\/missionbagde_2l2uAj2.jpg",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"BR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T05:29:05.841298Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 

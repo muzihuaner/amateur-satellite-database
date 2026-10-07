@@ -23656,10 +23656,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -23933,10 +23933,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -85344,6 +85344,36 @@
     ],
     "updated":"2026-10-07T04:06:40.725600Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"BFEA-6446-3541-2879-0397",
+    "norad_cat_id":98193.0,
+    "norad_follow_id":null,
+    "name":"JACK-007",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-07T03:25:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-07T18:37:34.248841Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0 and https:\/\/community.libre.space\/t\/kslv-2-launch-planned-2026-10-07-03-25-utc\/15296\/84",
     "is_frequency_violator":false,
     "associated_satellites":[
 
